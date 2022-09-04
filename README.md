@@ -1,5 +1,6 @@
 <h1 align="center"> Sejam bem vindes! 🌺🐱 </h1>
 
+🏳️‍⚧️ ela/dela
 Meu nome é Julia. Tenho 22 anos e moro no interior de São Paulo. Comecei a estudar desenvolvimento web no fim de 2021, e atualmente estou no bootcamp da Driven. Amo filmes, jogos e matemática. Sintam-se livres para interagir comigo pelo instagram(@juliacerezita) 💜
 
 Ferramentas que costumo utilizar:
@@ -10,7 +11,10 @@ Estou aprendendo:
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="50" height="50" />
 
-
+Habilidades Diversas:
+📚 Conhecimento em Git Flow e versionamento semântico
+⏱️ Familiariade com Metodologia Scrum
+0️⃣ Matemática nível universitário(Álgebra Linear, Geometria Analítica, Cálculo I - III)
 
 <div align="center">
 <a href="https://github.com/Cherrying55">
