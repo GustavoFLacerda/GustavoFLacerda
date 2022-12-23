@@ -1,8 +1,5 @@
 <h1 align="center"> Sejam bem vindes! 🌺🐱 </h1>
 
-🏳️‍⚧️ ela/dela
-
-Meu nome é Julia. Tenho 22 anos e moro no interior de São Paulo. Comecei a estudar desenvolvimento web no fim de 2021, e atualmente estou no bootcamp da Driven. Amo filmes, jogos e matemática. Sintam-se livres para interagir comigo pelo instagram(@juliacerezita) 💜
 
 Ferramentas que costumo utilizar:
 <br>
