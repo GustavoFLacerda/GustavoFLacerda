@@ -1,6 +1,10 @@
 Languages
 <br>
 🇧🇷 🇬🇧 🇫🇷
+<br>
+<hr>
+
+Profissional da área de computação com foco em interfaces de usuário, segurança digital, otimização e sistemas de recomendação. Amo gatos, moda, música, videogames e trilhas.
 
 Ferramentas que costumo utilizar:
 <br>
@@ -21,12 +25,13 @@ Habilidades Diversas:
 
 0️⃣ Matemática nível universitário(Álgebra Linear, Geometria Analítica, Cálculo I - III)
 
-<div align="center">
-<a href="https://github.com/Cherrying55">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cherrying55&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cherrying55&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-          
+<br>
+
+Contato:
+
+Linkedin: https://www.linkedin.com/in/gustavo-franca-de-lacerda-0973ab23a/
+
+E-mail: gulacer4@usp.br
           
           
           
