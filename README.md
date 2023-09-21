@@ -4,7 +4,7 @@ Languages
 <br>
 <hr>
 
-Profissional da área de computação com foco em interfaces de usuário, segurança digital, otimização e sistemas de recomendação. Amo gatos, moda, música, videogames e trilhas.
+Profissional da área de computação com foco em plataformas corporativas, segurança digital, otimização, sistemas de recomendação e escalabilidade. Amo gatos, moda, música, videogames e trilhas.
 
 Ferramentas que costumo utilizar:
 <br>
