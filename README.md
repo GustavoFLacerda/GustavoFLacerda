@@ -26,7 +26,7 @@ Contato:
 
 Linkedin: https://www.linkedin.com/in/gustavo-franca-de-lacerda-0973ab23a/
 
-E-mail: gulacer4@usp.br
+E-mail: gulacer55@gmail.com
           
           
           
